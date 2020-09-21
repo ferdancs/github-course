@@ -10,3 +10,5 @@ Ola isto é novo ....coisas novas!
 Gostou do curso? Sim ta bacana...!
 
 Vendo a ideia do diff
+
+Estamos testeando a ideia do remote.
